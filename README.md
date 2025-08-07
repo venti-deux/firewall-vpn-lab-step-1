@@ -2,7 +2,7 @@
 
 ## 🔹 Project Overview
 
-This is the first phase of my Firewall & VPN Administration Lab project. In this step, I designed and deployed a segmented network environment in Microsoft Azure to simulate an enterprise-grade foundation for VPN and firewall testing.
+In this lab, I designed and deployed a segmented network environment in Microsoft Azure to simulate an enterprise-grade foundation for VPN and firewall testing.
 
 ---
 
