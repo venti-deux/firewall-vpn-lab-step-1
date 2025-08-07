@@ -1,4 +1,4 @@
-# 💼 Firewall & VPN Administration Lab – Step 1: Azure Network Architecture
+# 💼 Firewall & VPN Administration Lab: Azure Network Architecture
 
 ## 🔹 Project Overview
 
@@ -53,9 +53,3 @@ It follows security best practices like **least privilege** and **network segmen
 
 
 ---
-
-## 🚀 Next Phase
-
-In **Step 2**, I will deploy and configure an OpenVPN server in the VPN subnet to enable secure remote access to internal network resources.
-
-Stay tuned!
